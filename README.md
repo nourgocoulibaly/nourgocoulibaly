@@ -2,7 +2,7 @@
 - 👀 I'm interested in web development.
 - 🌱 I'm currently learning NextJs / ReacJs / TypeScript / Javascript
 - 💞️ I'm looking to collaborate on a mission
-- 📫 How to contact me cloonyx28@outlook.fr
+- 📫 How to contact me ncoulibaly@outlook.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
   
