@@ -1,6 +1,6 @@
 👋 Hi, I'm @nourgocouibaly
 - 👀 I'm interested in web development.
-- 🌱 I'm currently learning NextJs / ReacJs / TypeScript / Javascript
+- 🌱 I'm currently learning NextJs / ReactJs / TypeScript / Javascript
 - 💞️ I'm looking to collaborate on a mission
 - 📫 How to contact me ncoulibaly0@outlook.com
 - 😄 Pronouns: ...
